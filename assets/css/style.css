@@ -1,0 +1,15 @@
+:root {
+	--verde: #28a745;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.color-principal {
+	background-color: var(--verde);
+}
+
+.color-valorfinal {
+	color: var(--verde);
+}
